@@ -1,0 +1,23 @@
+overwrite:
+  - app/src/main/kotlin/edu/illinois/cs/cs124/ay2022/mp/activities/*.kt
+  - app/src/main/kotlin/edu/illinois/cs/cs124/ay2022/mp/application/*.kt
+  - app/src/main/kotlin/edu/illinois/cs/cs124/ay2022/mp/models/*.kt
+  - app/src/main/kotlin/edu/illinois/cs/cs124/ay2022/mp/network/*.kt
+  - app/src/main/res/layout/*.xml
+  - app/src/main/res/values/*.xml
+  - app/src/main/AndroidManifest.xml
+  - ID.txt
+  - grade.yaml
+checkpoints:
+  0:
+    delete:
+      - app/src/test/kotlin/edu/illinois/cs/cs124/ay2022/mp/MP1Test.kt
+      - app/src/test/kotlin/edu/illinois/cs/cs124/ay2022/mp/MP2Test.kt
+      - app/src/test/kotlin/edu/illinois/cs/cs124/ay2022/mp/MP3Test.kt
+  1:
+    delete:
+      - app/src/test/kotlin/edu/illinois/cs/cs124/ay2022/mp/MP2Test.kt
+      - app/src/test/kotlin/edu/illinois/cs/cs124/ay2022/mp/MP3Test.kt
+  2:
+    delete:
+      - app/src/test/kotlin/edu/illinois/cs/cs124/ay2022/mp/MP3Test.kt

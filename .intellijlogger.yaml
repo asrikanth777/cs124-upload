@@ -1,0 +1,4 @@
+destination: https://cloud.cs124.org/intellijlogger/
+name: AY2022-MP-kotlin
+emailLocation: ID.txt
+buttonAction: "Grade.*"
